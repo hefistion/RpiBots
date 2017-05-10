@@ -1,2 +1,2 @@
-# Rpr_Bots_Telegram
-Bots de telegram para usar con la RPi 
+# RpiBots
+Bots de Telegram para usar con la RPi 
